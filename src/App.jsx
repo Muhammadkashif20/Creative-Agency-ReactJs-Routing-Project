@@ -8,8 +8,7 @@ const App = () => {
     <div className="bg-gray-50">
       <Header />
       <Services/>
-      <Footer />
-    
+      <Footer />    
     </div>
   );
 };
